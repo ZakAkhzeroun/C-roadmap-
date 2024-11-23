@@ -1,4 +1,3 @@
-
 ## C Programming Roadmap for Engineers
 
 C is one of the most important programming languages, especially for electrical engineers, due to its efficiency, low-level control, and wide applicability in embedded systems and hardware programming. This roadmap will guide you through the essentials of learning C programming.
@@ -137,3 +136,32 @@ Pointers are powerful but challenging concepts in C:
 
 This roadmap will provide a solid foundation in C programming, equipping you with the skills needed for more advanced topics like embedded systems, microcontrollers, and hardware programming.
 
+
+### **Additional Resources**
+
+#### **Videos:**
+
+1. [C Programming Crash Course](https://www.youtube.com/watch?v=87SH2Cn0s9A)  
+    A concise and beginner-friendly introduction to C programming, covering the fundamentals in a clear and engaging way.
+    
+2. [Complete C Programming Tutorial](https://www.youtube.com/watch?v=KJgsSFOSQv0)  
+    A detailed, step-by-step guide to mastering C programming, suitable for beginners and those looking to strengthen their basics.
+    
+
+---
+
+#### **Books & Courses:**
+
+- [The C Programming Language (Book)](https://courses.physics.ucsd.edu/2014/Winter/physics141/Labs/Lab1/The_C_Programming_Language.pdf)  
+    This classic book by Kernighan and Ritchie is the definitive guide to understanding the core concepts of C programming. A must-read for any serious learner.
+    
+- [C Programming Full Course by FreeCodeCamp](https://www.youtube.com/watch?v=PaPN51Mm5qQ)  
+    A comprehensive and free online course to learn C programming, offered by FreeCodeCamp. It’s perfect for both beginners and intermediate learners.
+    
+
+---
+
+#### **Guides:**
+
+- [Beej's Guide to C Programming](https://beej.us/guide/bgc/html/split/)  
+    A practical and easy-to-follow guide for learning C programming, featuring clear explanations and plenty of real-world examples.
