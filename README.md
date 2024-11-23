@@ -1,5 +1,4 @@
-# C-roadmap-
-Roadmap for beginners to learn C programming language
+
 ## C Programming Roadmap for Engineers
 
 C is one of the most important programming languages, especially for electrical engineers, due to its efficiency, low-level control, and wide applicability in embedded systems and hardware programming. This roadmap will guide you through the essentials of learning C programming.
